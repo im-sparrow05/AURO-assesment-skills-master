@@ -1,0 +1,501 @@
+Statement,Example,Constraint,Topic,Level
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Medium
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a string '', reverse it.",Example: s = 'hello' Output: 'olleh',1 <= n <= 231 - 1,string,Medium
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Easy
+"Given a dictionary of integers, return the sum of all values.","Example: Dict: {'a': 1, 'b': 2, 'c': 3} Output: 6",1 <= n <= 231 - 1,hashing,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Medium
+"Given a linked list of integers, find the sum of all elements.",Example: List: 1 -> 2 -> 3 Output: 6,1 <= n <= 231 - 1,linkedlist,Hard
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Easy
+"Given an array of integers, return the sum of all elements.","Example: nums = [1, 2, 3] Output: 6",1 <= n <= 231 - 1,array,Hard
+"Given a set of tasks , find the maximum total value given constraints.","Example: Tasks: [(1, 3), (2, 5), (4, 6), (6, 8)] Output: 11",1 <= n <= 231 - 1,dynamicprogramming,Hard
